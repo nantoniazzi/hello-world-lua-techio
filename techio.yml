@@ -1,4 +1,4 @@
-title : Lua Playground
+title : "Lua Playground"
 plan:
   - title: Lua
     statement: markdowns/part1.md
