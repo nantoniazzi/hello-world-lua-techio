@@ -5,6 +5,6 @@ plan:
 
 projects:
   "my-lua-project":
-    - root: /project
-    - runner: jimho/lua:5.3
+    root: /project
+    runner: jimho/lua:5.3
 
