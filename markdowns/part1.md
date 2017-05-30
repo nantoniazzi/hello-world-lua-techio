@@ -1,1 +1,4 @@
-This is part 1
+Hello World in Lua
+
+@[Run]({"stubs":"hello.lua", "command":"lua hello.lua"})
+

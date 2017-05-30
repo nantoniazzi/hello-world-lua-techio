@@ -1,6 +1,10 @@
-title : Content name
+title : Lua Playground
 plan:
-  - title: Part 1
+  - title: Lua
     statement: markdowns/part1.md
-  - title: Part 2
-    statement: markdowns/part2.md
+
+projects:
+  "my-lua-project"
+    - root: /project
+    - runner: jimho/lua:5.3
+
