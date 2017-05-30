@@ -4,7 +4,7 @@ plan:
     statement: markdowns/part1.md
 
 projects:
-  "my-lua-project"
+  "my-lua-project":
     - root: /project
     - runner: jimho/lua:5.3
 
